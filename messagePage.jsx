@@ -1,8 +1,4 @@
-import React from 'react'
-import {AiOutlineSetting} from 'react-icons/ai'
-import {LuMailPlus} from 'react-icons/lu'
-import "./messagePage.css";
-import Navbar from '../navbar';
+
 
 
 
@@ -25,7 +21,7 @@ export default function MessagePage() {
           </div>
           <div className="sloganBox">
             <div className="slogan1">
-                <h1>Welcome to your inbox!</h1>
+                <h1>Welcome</h1>
             </div>
             <div className="slogan2">
                 <p>Drop a line,share posts and more with private conversations between you and others on X.</p>
